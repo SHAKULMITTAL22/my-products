@@ -1,0 +1,11 @@
+metering-label-rule-id,statusCode
+rule-01a,200
+rule-02b,404
+rule-03c,500
+rule-04d,403
+rule-05e,201
+rule-06f,400
+rule-07g,301
+rule-08h,302
+rule-09i,202
+rule-10j,401
