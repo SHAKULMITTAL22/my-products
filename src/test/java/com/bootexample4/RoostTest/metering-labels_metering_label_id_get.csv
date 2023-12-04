@@ -1,0 +1,11 @@
+metering_label_id,statusCode
+mtr_lbl_001,200
+mtr_lbl_002,404
+mtr_lbl_003,500
+mtr_lbl_004,200
+mtr_lbl_005,301
+mtr_lbl_006,200
+mtr_lbl_007,404
+mtr_lbl_008,500
+mtr_lbl_009,200
+mtr_lbl_010,301
