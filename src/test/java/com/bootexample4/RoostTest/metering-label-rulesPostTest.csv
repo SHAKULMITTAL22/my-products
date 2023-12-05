@@ -1,0 +1,11 @@
+id,tenant_id,description,name,remote_ip_prefix,direction,excluded
+a6700594-5b7a-4105-8bfe-723b346ce866,45345b0ee1ea477fac0f541b2cb79cd4,label1 description,label1,20.0.0.0/24,ingress,false
+e131d186-b02d-4c0b-83d5-0c0725c4f812,45345b0ee1ea477fac0f541b2cb79cd4,label2 description,label2,10.0.0.0/24,ingress,false
+bc91b832-8465-40a7-a5d8-ba87de442266,45345b0ee1ea477fac0f541b2cb79cd4,description of label1,label1,10.0.1.0/24,ingress,false
+9536641a-7d14-4dc5-afaf-93a973ce0eb8,45345b0ee1ea477fac0f541b2cb79cd4,label3 description,label3,192.168.1.0/24,ingress,true
+ffc6fd15-40de-4e7d-b617-34d3f7a93aec,45345b0ee1ea477fac0f541b2cb79cd4,label4 description,label4,172.16.0.0/24,ingress,false
+00e13b58-b4f2-4579-9c9c-7ac94615f9ae,45345b0ee1ea477fac0f541b2cb79cd4,label5 description,label5,192.168.2.0/24,ingress,true
+a1b2c3d4-e5f6-7g8h-9i0j-1k2l3m4n5o6p,45345b0ee1ea477fac0f541b2cb79cd4,label6 description,label6,172.16.1.0/24,ingress,false
+b2c3d4e5-f6g7-h8i9-j0k1-2l3m4n5o6p7q,45345b0ee1ea477fac0f541b2cb79cd4,label7 description,label7,192.168.3.0/24,ingress,true
+c3d4e5f6-g7h8-i9j0-k1l2-3m4n5o6p7q8r,45345b0ee1ea477fac0f541b2cb79cd4,label8 description,label8,172.16.2.0/24,ingress,false
+d4e5f6g7-h8i9-j0k1-l2m3-4n5o6p7q8r9s,45345b0ee1ea477fac0f541b2cb79cd4,label9 description,label9,192.168.4.0/24,ingress,true
