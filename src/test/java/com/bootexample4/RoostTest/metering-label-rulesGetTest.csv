@@ -1,0 +1,11 @@
+UserID,Username,Email,DateOfBirth,AccountCreated,LastLogin,Balance,Country,SubscriptionStatus
+1,johndoe1,johndoe1@example.com,1985-04-12,2015-06-01,2023-03-25,1200.50,USA,Active
+2,janedoe2,janedoe2@example.com,1990-07-19,2017-09-15,2023-03-24,2150.00,Canada,Inactive
+3,mikeb3,mikeb3@example.com,1972-11-03,2018-01-20,2023-03-23,3105.75,UK,Active
+4,sarahc4,sarahc4@example.com,1988-02-27,2019-05-30,2023-03-22,587.20,Germany,Inactive
+5,alexk5,alexk5@example.com,1995-05-16,2020-11-11,2023-03-21,945.65,Australia,Active
+6,emilyh6,emilyh6@example.com,1983-08-12,2016-03-18,2023-03-20,1500.00,France,Inactive
+7,danielm7,danielm7@example.com,1975-09-29,2021-07-04,2023-03-19,2333.33,Japan,Active
+8,laurap8,laurap8@example.com,1999-12-20,2022-02-14,2023-03-18,800.00,Italy,Inactive
+9,steveb9,steveb9@example.com,1964-06-30,2014-08-08,2023-03-17,450.00,Spain,Active
+10,oliviat10,oliviat10@example.com,2001-03-22,2023-01-01,2023-03-16,1212.12,Brazil,Inactive

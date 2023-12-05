@@ -1,0 +1,11 @@
+UserID,Username,Email,Age,JoinDate,LastLogin,Country,SubscriptionStatus
+1,jdoe1,jdoe1@example.com,25,2021-05-10,2023-03-15,USA,Active
+2,asmith2,asmith2@example.net,30,2020-08-21,2023-03-14,Canada,Inactive
+3,bjones3,bjones3@example.org,28,2019-12-01,2023-03-13,UK,Active
+4,cmiller4,cmiller4@example.com,32,2021-07-18,2023-03-16,Australia,Active
+5,dwilson5,dwilson5@example.net,29,2022-01-25,2023-03-17,Ireland,Inactive
+6,ewright6,ewright6@example.org,34,2018-11-30,2023-03-18,New Zealand,Active
+7,fyoung7,fyoung7@example.com,27,2020-06-15,2023-03-19,USA,Inactive
+8,gthomas8,gthomas8@example.net,35,2021-03-22,2023-03-20,Canada,Active
+9,hmartin9,hmartin9@example.org,31,2022-09-10,2023-03-21,UK,Inactive
+10,ijackson10,ijackson10@example.com,26,2019-04-05,2023-03-22,Australia,Active
