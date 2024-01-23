@@ -1,0 +1,38 @@
+Here is a Python script that generates a CSV file according to your specifications:
+
+```python
+import csv
+import random
+from datetime import datetime, timedelta
+
+# Define the fields and their data types
+fields = ["statusCode"]
+data_types = {"statusCode": "numeric"}
+
+# Define the possible values for each field
+possible_values = {
+    "statusCode": [200, 400, 404, 500]
+}
+
+# Generate the data
+data = []
+for _ in range(10):
+    row = {}
+    for field in fields:
+        if data_types[field] == "numeric":
+            row[field] = random.choice(possible_values[field])
+        else:
+            row[field] = random.choice(possible_values[field])
+    data.append(row)
+
+# Write the data to a CSV file
+with open('data.csv', 'w', newline='') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=fields)
+    writer.writeheader()
+    for row in data:
+        writer.writerow(row)
+```
+
+This script generates a CSV file named `data.csv` with the specified fields and data types. The data is randomly generated from the possible values for each field. The CSV file is written without using double quotes around data or headers.
+
+Please note that the `possible_values` dictionary should be updated with the actual possible values for each field according to your requirements.
